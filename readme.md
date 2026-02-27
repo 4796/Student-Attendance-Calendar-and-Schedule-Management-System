@@ -38,7 +38,7 @@ The Student Attendance and Schedule Management System provides a centralized pla
 
 The application is built with a focus on performance, type-safety, and modern web standards:
 
-- **Framework**: Next.js 15 (App Router)
+- **Framework**: Next.js 16 (App Router)
 - **Database**: PostgreSQL
 - **ORM**: Drizzle ORM
 - **Styling**: Tailwind CSS and Vanilla CSS
